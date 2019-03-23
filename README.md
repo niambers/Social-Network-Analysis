@@ -2,7 +2,7 @@
 
 This repository will serve as a place of reference and development for the "Implementation of Machine Learning" to Social Network Analysis.
 
-The purpose of this function was initially to increase a company's ability to fluctuate between prices based on tweets or social inputs (ranging from weather to positive or negative connotation in reviews) from people near to a companies physical location. And as a direct result increase the rate of conversion marketing*. However, now the goal is to - HOPEFULLY - carry out machine learning with an unrestricted algorithm.
+The purpose of this function was initially to increase a company's ability to fluctuate between prices based on tweets or social inputs (ranging from weather to positive or negative connotation in reviews) from people near to a companies physical location. And as a direct result increase the rate of conversion marketing*. However, now the goal is to - HOPEFULLY - carry out machine learning with an unsupervised algorithm.
 
 
 
